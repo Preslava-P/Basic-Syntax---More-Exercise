@@ -1,0 +1,7 @@
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\bin\Debug\01.SortNumbers.exe.config
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\bin\Debug\01.SortNumbers.exe
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\bin\Debug\01.SortNumbers.pdb
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\obj\Debug\01.SortNumbers.csproj.AssemblyReference.cache
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\obj\Debug\01.SortNumbers.csproj.CoreCompileInputs.cache
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\obj\Debug\01.SortNumbers.exe
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\obj\Debug\01.SortNumbers.pdb
