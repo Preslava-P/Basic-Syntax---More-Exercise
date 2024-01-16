@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortNumbers", "01.SortNu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.EnglishName", "02.EnglishName\02.EnglishName.csproj", "{70556C1B-4CFD-4156-B8ED-792CF2C12288}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GamingStore", "03.GamingStore\03.GamingStore.csproj", "{723B8B84-4899-4938-A971-EE3DA1435C00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{70556C1B-4CFD-4156-B8ED-792CF2C12288}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70556C1B-4CFD-4156-B8ED-792CF2C12288}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70556C1B-4CFD-4156-B8ED-792CF2C12288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723B8B84-4899-4938-A971-EE3DA1435C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723B8B84-4899-4938-A971-EE3DA1435C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723B8B84-4899-4938-A971-EE3DA1435C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723B8B84-4899-4938-A971-EE3DA1435C00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
