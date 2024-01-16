@@ -1,0 +1,7 @@
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\bin\Debug\02.EnglishName.exe.config
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\bin\Debug\02.EnglishName.exe
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\bin\Debug\02.EnglishName.pdb
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\obj\Debug\02.EnglishName.csproj.AssemblyReference.cache
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\obj\Debug\02.EnglishName.csproj.CoreCompileInputs.cache
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\obj\Debug\02.EnglishName.exe
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\obj\Debug\02.EnglishName.pdb
