@@ -1,0 +1,14 @@
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\05.Messages\bin\Debug\net6.0\05.Messages.exe
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\05.Messages\bin\Debug\net6.0\05.Messages.deps.json
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\05.Messages\bin\Debug\net6.0\05.Messages.runtimeconfig.json
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\05.Messages\bin\Debug\net6.0\05.Messages.dll
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\05.Messages\bin\Debug\net6.0\05.Messages.pdb
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\05.Messages\obj\Debug\net6.0\05.Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\05.Messages\obj\Debug\net6.0\05.Messages.AssemblyInfoInputs.cache
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\05.Messages\obj\Debug\net6.0\05.Messages.AssemblyInfo.cs
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\05.Messages\obj\Debug\net6.0\05.Messages.csproj.CoreCompileInputs.cache
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\05.Messages\obj\Debug\net6.0\05.Messages.dll
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\05.Messages\obj\Debug\net6.0\refint\05.Messages.dll
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\05.Messages\obj\Debug\net6.0\05.Messages.pdb
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\05.Messages\obj\Debug\net6.0\05.Messages.genruntimeconfig.cache
+D:\PF-Jan\Basic-Syntax---More-Exercise\Basic Syntax, Conditional Statements and Loops - More Exercise\05.Messages\obj\Debug\net6.0\ref\05.Messages.dll
