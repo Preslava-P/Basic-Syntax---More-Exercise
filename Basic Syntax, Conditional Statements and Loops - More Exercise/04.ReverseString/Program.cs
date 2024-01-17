@@ -7,7 +7,13 @@ namespace _04.ReverseString
     {
         static void Main()
         {
+            string originalString = Console.ReadLine();
 
+            char[] charArray = originalString.ToCharArray();
+            Array.Reverse(charArray);
+            string reversedString = new string(charArray);
+
+            Console.WriteLine(reversedString);
         }
     }
 }
